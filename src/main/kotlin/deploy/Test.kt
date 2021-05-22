@@ -1,0 +1,4 @@
+package deploy
+
+class Test {
+}
